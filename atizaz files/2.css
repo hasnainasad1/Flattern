@@ -32,7 +32,8 @@
     justify-content: space-around;
     background-color: #01ABCC;
     height: 80px;
-    position: relative;
+    /* position: relative; */
+    z-index: 1111;
 }
 #haa{
     color: #212529;
